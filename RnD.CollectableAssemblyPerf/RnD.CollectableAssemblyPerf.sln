@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RnD.CollectableAssemblyPerf", "RnD.CollectableAssemblyPerf.csproj", "{6BCEBD36-6342-448D-AD41-1C3362FBFAEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BCEBD36-6342-448D-AD41-1C3362FBFAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCEBD36-6342-448D-AD41-1C3362FBFAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCEBD36-6342-448D-AD41-1C3362FBFAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCEBD36-6342-448D-AD41-1C3362FBFAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {050017A1-9DF9-4213-956B-0ECCA5E86C60}
+	EndGlobalSection
+EndGlobal
