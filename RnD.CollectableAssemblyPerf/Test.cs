@@ -21,9 +21,6 @@ public class Test
         TypeBuilder tb = mb.DefineType("MyClass",
                                        TypeAttributes.Public | TypeAttributes.Sealed);
 
-        //foreach (Column column in table.Columns)
-        //    NewField(tb, column);
-
         Type t = tb.CreateType()!;
         return t;
     }
